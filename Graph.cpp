@@ -71,6 +71,6 @@ void Graph::printBfs(int point){
 
 }
 
-bool Graph:: isdirected(){
+bool Graph:: isdirected(){	
 	
 }
